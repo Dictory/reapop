@@ -1,6 +1,6 @@
 {
   "name": "reapop",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A React and Redux notifications system",
   "main": "lib/index.js",
   "scripts": {
@@ -110,6 +110,6 @@
   },
   "dependencies": {
     "prop-types": "^15.6.0",
-    "react-transition-group": "^2.2.1"
+    "react-transition-group-v2": "npm:react-transition-group"
   }
 }
